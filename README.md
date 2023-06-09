@@ -1,9 +1,9 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> <h1 align="center"> 
-📄<br>MODEL KERNEL
+📄<br>MODELO KERNEL
 </h1>
 
 
-> MODEL KERNEL
+> MODELO KERNEL
 <br/>
 > ALUNO : VITOR MANOEL QUIRINO FRAGOSO SOARES
  <br/>
