@@ -2,7 +2,6 @@
 📄<br>MODEL KERNEL
 </h1>
 
-## 📚 MODEL KERNEL
 
 > MODEL KERNEL
 <br/>
