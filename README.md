@@ -5,8 +5,11 @@
 ## 📚 MODEL KERNEL
 
 > MODEL KERNEL
+<br/>
 > ALUNO : VITOR MANOEL QUIRINO FRAGOSO SOARES
+ <br/>
 > MATRÍCULA : 01547485
+<br/>
 
 ---
 
@@ -28,5 +31,5 @@
     </div>
     <br/>
     💖
-</div> MODEL-KERNEL
-MODEL-KERNEL
+</div> MODEL-KERNEL </div>
+
